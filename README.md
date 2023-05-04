@@ -3,7 +3,7 @@ final project
 <table align="center">
   <tr>
     <td>Name</td>
-    <tdAbhijeet Barhate</td>
+    <td>Abhijeet Barhate</td>
   </tr>
   <tr>
     <td>Enrollment No</td>
